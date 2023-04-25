@@ -16,3 +16,7 @@ To run the code :
 ## Screenshots
 
 ![App Screenshot](/screenshort.png)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
