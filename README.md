@@ -1,10 +1,10 @@
 # Creating a GUI window in C
 This program demonstrates how to create a basic GUI window in C without any external modules.
 
-# Prerequisites
-C compiler (GCC, Clang, etc.)
-For Windows: MinGW or Visual Studio (if using Visual Studio, some modifications may be required)
-For Unix-based systems: Xlib development library
+## Prerequisites
+- C compiler (GCC, Clang, etc.).
+- For Windows: MinGW or Visual Studio (if using Visual Studio, some modifications may be required).
+- For Unix-based systems: Xlib development library.
 # How to build and run
 Windows
 Open the command prompt and navigate to the directory containing the source code file main.c.
